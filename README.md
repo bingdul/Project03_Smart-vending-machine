@@ -9,6 +9,12 @@
 사용 하드웨어 : RaspberryPi
 
 팀 개발기간 : 2021년 6월
+
+## 자판기 확대사진
+![image17](https://user-images.githubusercontent.com/59175200/170864619-4fce5e0f-a87c-4eb1-a538-e83558e7fa5a.png)
+![image18](https://user-images.githubusercontent.com/59175200/170864622-36790f99-337a-4cb7-a29a-f7f33b4594c2.png)
+
+## ppt
 ![슬라이드1](https://user-images.githubusercontent.com/83994580/127095256-3cc7e234-8312-4da0-82a5-86a5bb5d963a.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/83994580/127095263-7fc8f9f4-0578-430a-b098-b1d4b941f536.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/83994580/127095270-544bc82e-ec9f-4259-ba2c-229207e5ccc0.PNG)
@@ -29,6 +35,21 @@
 ![슬라이드18](https://user-images.githubusercontent.com/83994580/127095447-d6133dd3-0678-4ed2-b142-9b537c5fbdd8.PNG)
 ![슬라이드19](https://user-images.githubusercontent.com/83994580/127095448-b44727f5-4ede-450a-8b67-a690f3d679c1.PNG)
 ![슬라이드20](https://user-images.githubusercontent.com/83994580/127095450-54d67994-f4e3-40ef-a79b-8d9a917ddb58.PNG)
+
+
+https://user-images.githubusercontent.com/59175200/170864587-17e9a38a-f660-4b58-826a-880ca5f6be89.mp4
+
+
+https://user-images.githubusercontent.com/59175200/170864590-4e56456f-ed6b-4faa-bb37-728965727f52.mp4
+
+
+
+
+https://user-images.githubusercontent.com/59175200/170864593-e04357f1-7c86-441e-84fe-4389d7558e05.mp4
+
+
+
+
 ![슬라이드21](https://user-images.githubusercontent.com/83994580/127095452-95e65565-3f18-4bb2-b3e9-9600326864a9.PNG)
 ![슬라이드22](https://user-images.githubusercontent.com/83994580/127095453-a66fe7cd-9f0e-42d0-9561-64481657adc9.PNG)
 ![슬라이드23](https://user-images.githubusercontent.com/83994580/127095454-ec51e952-6cdb-433c-8b95-671adf32c00c.PNG)

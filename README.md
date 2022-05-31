@@ -2,9 +2,13 @@
 
 프로젝트명 : smart_vendingmachine!
 
-사용 언어 : Python,android studio, java
+프로젝트목적 : 통신가능한 자판기를 개발하여 서버와의 실시간 통신을 통해 재고등 여러 정보파악하는 시스템 개발
 
-사용 프로그램 : Python IDLE
+개발 팀원 : 박경인(팀장), 이동희, 정승민, 김규태
+
+사용 언어 : Python, java
+
+사용 프로그램 : Python IDLE ,android studio
 
 사용 하드웨어 : RaspberryPi
 
